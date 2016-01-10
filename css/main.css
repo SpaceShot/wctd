@@ -6,6 +6,20 @@
     text-shadow: 1px 1px 1px darkslategray;
 }
 
+.jumbotron h1
+{
+    text-align: center;
+}
+
+#purpleColumn
+{
+    background-color: mediumpurple;
+}
+
+
+
+
+
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
