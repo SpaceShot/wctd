@@ -1,4 +1,10 @@
-
+.jumbotron
+{
+    background: url(../img/rainforest-waterfall.jpg);
+    background-color: lime;
+    color: whitesmoke;
+    text-shadow: 1px 1px 1px darkslategray;
+}
 
 /* ==========================================================================
    Author's custom styles
