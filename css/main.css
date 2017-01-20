@@ -1,7 +1,7 @@
 .jumbotron
 {
     background: url(../img/rainforest-waterfall.jpg);
-    background-color: lime;
+    background-color: gray;
     color: whitesmoke;
     text-shadow: 1px 1px 1px darkslategray;
 }
