@@ -1,6 +1,6 @@
 .jumbotron
 {
-    background: url(../img/rainforest-waterfall.jpg);
+    background-image: url(../img/rainforest-waterfall.jpg);
     background-color: gray;
     color: whitesmoke;
     text-shadow: 1px 1px 1px darkslategray;
@@ -25,7 +25,10 @@
    ========================================================================== */
 
 
-
+.template-text
+{
+    font-size:24px;
+}
 
 
 
